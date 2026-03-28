@@ -1,2 +1,2 @@
 nginx:latest
-jenkins/inbound-agent:latest-rhel-ubi9-jdk17
+jenkins/inbound-agent:latest-jdk11
