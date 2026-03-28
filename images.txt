@@ -1,3 +1,4 @@
 nginx:latest
 nginx:stable-alpine
 jenkins/inbound-agent:latest-jdk11
+busybox:latest
