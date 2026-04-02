@@ -3,3 +3,4 @@ nginx:stable-alpine
 jenkins/inbound-agent:latest-jdk11
 busybox:latest
 ubuntu:22.04
+jenkins/inbound-agent:3309.v27b_9314fd1a_4-1
